@@ -16,5 +16,12 @@ https://github.com/spaceappssagami/seaweed4space/tree/master/data
 
 https://docs.google.com/presentation/d/1-hlLIxfeZW6QPeEliNJEqmjV8E0eW7BqKbDELZlbzCk/edit?usp=sharing
 
+
+## Members
+* Tatsumi Baba
+* Yosuke Kanda
+* Taichi Furuhashi [@mapconcierge](https://github.com/mapconcierge)
+
+
 ## Lincense
 © FuruhashiLab., CC BY 4.0
