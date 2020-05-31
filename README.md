@@ -9,7 +9,7 @@ This project is working on [NASA Space Apps COVID-19 Challenge](https://covid19.
 
 
 ## Download data
-https://github.com/spaceappssagami/seaweed4space/tree/master/data
+https://github.com/furuhashilab/seaweed4space/tree/master/data
 
 ## Use Cases
 * Presentation on Space Apps Challenge
