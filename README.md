@@ -18,8 +18,8 @@ https://docs.google.com/presentation/d/1-hlLIxfeZW6QPeEliNJEqmjV8E0eW7BqKbDELZlb
 
 
 ## Members
-* Tatsumi Baba
-* Yosuke Kanda
+* Tatsumi Baba [@Babby168](https://github.com/Babby168)
+* Yosuke Kanda [@cancancanda](https://github.com/cancancanda)
 * Taichi Furuhashi [@mapconcierge](https://github.com/mapconcierge)
 
 
